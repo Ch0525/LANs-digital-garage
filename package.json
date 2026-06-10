@@ -1,0 +1,24 @@
+{
+  "name": "lans-digital-garage",
+  "version": "1.0.0",
+  "description": "LANs Digital Garage - Subscription Marketplace for Serious Sellers",
+  "main": "Index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ch0525/LANs-digital-garage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ch0525/LANs-digital-garage/issues"
+  },
+  "homepage": "https://github.com/Ch0525/LANs-digital-garage#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
